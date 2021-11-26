@@ -8,4 +8,4 @@ pip install request
 ```
 
 para la revision de Rest use insomnia, aqui el enlace https://insomnia.rest/download
-y como ide Visual Studio Code
+y como IDE Visual Studio Code, aqui el enlace https://code.visualstudio.com/download
